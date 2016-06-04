@@ -1,0 +1,11 @@
+{
+  "name": "cherish-touch",
+  "version": "1.0.0",
+  "description": "touch gesture",
+  "main": "cherish-touch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xieq",
+  "license": "MIT"
+}
